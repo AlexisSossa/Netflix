@@ -30,9 +30,7 @@ Install my-project with npm
 
 ## Demo
 ![sizzy-photo-studio-2022-05-11T001804 699Z](https://user-images.githubusercontent.com/91036479/167745335-73032a3f-c3f9-4af5-b3cc-488479b9b144.png)
-![sizzy-photo-studio-2022-05-11T001821 200Z](https://user-images.githubusercontent.com/91036479/167745341-d78cfe95-cf1e-4cff-b96![sizzy-photo-studio-2022-05-11T002536 098Z](https://user-images.githubusercontent.com/91036479/167745354-45a8e751-37bc-4174-b57c-4fb3fc98b3c4.png)
-9-9bc7cc2116e4.png)
 ![sizzy-photo-studio-2022-05-11T002443 414Z](https://user-images.githubusercontent.com/91036479/167745344-759431e8-cf7f-4028-9950-019fa4ee3389.png)
 ![sizzy-photo-studio-2022-05-11T002452 815Z](https://user-images.githubusercontent.com/91036479/167745345-adf471ab-0308-4132-a257-d31fd7aa2542.png)
-
+![sizzy-photo-studio-2022-05-11T002536 098Z](https://user-images.githubusercontent.com/91036479/167745454-85a1ed96-6433-4c28-af5a-642fe3f82523.png)
 
