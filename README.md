@@ -23,7 +23,7 @@ Install my-project with npm
     
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, Redux
 
 **Server:** Firebase
 
